@@ -4,6 +4,7 @@ public class ejercicio4{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
+        scan.close();
         if (num == 1){
             System.out.println("Hoy es Domingo");
         } else if (num == 2){

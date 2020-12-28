@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ejercicio4Arrays",
+            "request": "launch",
+            "mainClass": "ejercicio4Arrays",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ejercicio3Arrays",
+            "request": "launch",
+            "mainClass": "Ejercicio3Arrays",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ejercicio2Arrays",
+            "request": "launch",
+            "mainClass": "Ejercicio2Arrays",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ejercicio1Arrays",
+            "request": "launch",
+            "mainClass": "Ejercicio1Arrays",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio9level",
+            "request": "launch",
+            "mainClass": "ejercicio9level",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio8level",
+            "request": "launch",
+            "mainClass": "ejercicio8level",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio7level",
+            "request": "launch",
+            "mainClass": "ejercicio7level",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio6level",
+            "request": "launch",
+            "mainClass": "ejercicio6level",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejer6",
+            "request": "launch",
+            "mainClass": "ejer6",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio5level",
+            "request": "launch",
+            "mainClass": "ejercicio5level",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio4level",
+            "request": "launch",
+            "mainClass": "ejercicio4level",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio3level",
+            "request": "launch",
+            "mainClass": "ejercicio3level",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio2level",
+            "request": "launch",
+            "mainClass": "ejercicio2level",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio1level",
+            "request": "launch",
+            "mainClass": "ejercicio1level",
+            "projectName": "java-info-2020_5b1161b2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ejercicio4",
             "request": "launch",
             "mainClass": "ejercicio4",

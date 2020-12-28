@@ -4,6 +4,7 @@ public class ejercicio3{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int nota = scan.nextInt();
+        scan.close();
         if (nota > 92){
             System.out.println("Excelente");
         } else if (nota > 84){
